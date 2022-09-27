@@ -7,10 +7,9 @@ Horiseon Marketing requested a custom website to display their company services 
 No installation necessary. Please visit [this website](https://brigantinojoe.github.io/horiseon/#social-media-marketing) to view the published website. The project was created in HTML 5 and CSS, and published using Github Pages.
 
 ## Usage
-To navigate the website, use the menu bar on the rop right corner of the web-page. The navigation bar will quickly move your focus to other sections of the website.
-    ```md
-    ![alt text](Develop/assets/images/menu.png)
-    ```
+To navigate the website, use the menu bar on the rop right corner of the web-page. The navigation bar will quickly move your focus to other sections of the website. The screenshot below is of the navigation bar.
+
+![Menu Screenshot](Develop/assets/images/menu.png)
 
 ## License
 MIT License
